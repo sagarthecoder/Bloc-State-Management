@@ -1,7 +1,6 @@
 import 'package:bloc_state_management/bloc/counter/counter_bloc.dart';
 import 'package:bloc_state_management/bloc/counter/counter_event.dart';
 import 'package:bloc_state_management/bloc/counter/counter_state.dart';
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
